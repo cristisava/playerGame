@@ -1,0 +1,29 @@
+#container {
+    height: 400px;
+    width: 400px;
+    background-color: green;
+    position: absolute;
+    top: 15%;
+    left: 20%;
+    margin-top: -50px;
+    margin-left: -50px;
+  }
+  
+  #player {
+    height: 30px;
+    width: 30px;
+    background-color: blue;
+    border-radius: 50%;
+    
+  }
+
+  body {
+    height: 100vh;
+        background: linear-gradient(
+          0deg,
+          rgba(34, 193, 195, 1) 0%,
+          rgba(253, 187, 45, 1) 100%
+        );
+          text-align: center;
+          overflow: hidden;
+}
